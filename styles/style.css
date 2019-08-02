@@ -59,7 +59,7 @@ a:active{
 
 /* Start Menu Primer */
 .menu-primer ul {
-    background-color: #333333;
+    background-color: #2b96ca;
     border-radius: 4px;
     box-shadow: 
         0 3px 5px -1px rgba(8,8,0,.2),
@@ -300,3 +300,33 @@ h6{
 }
 
 /*End Copyright*/
+
+.text-center {
+    text-align: center !important;
+}
+/*Start Footer*/
+.list-style-none li {
+    list-style: none;
+  }
+  .display-inline-block {
+    display: inline-block;
+  }
+  .title {
+    font-size: 15px;
+  }
+  .title .caption {
+    line-height: 15px;
+  }
+  .caption {
+    font-size: 12px;
+  }
+  .text-mute {
+    color: #999;
+  }
+  .padding-left-10 {
+    padding-left: 10px;
+  }
+  .margin-left-10 {
+    margin-left: 10px;
+  }
+  
